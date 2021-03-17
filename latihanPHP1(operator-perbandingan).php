@@ -15,6 +15,6 @@ if($a === $b){
 }else{
 	echo "Variabel a tidak identical dengan variabel b";
 }
-
+//komen untuk mengetest git
 
 ?>
